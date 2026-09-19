@@ -1,0 +1,6 @@
+{
+  "name": "Listen & Choose - Vocabulary Audio Quiz",
+  "description": "Interactive listening vocabulary quiz in English & Gujarati: listen to audio, pick the correct vocabulary word across 20 questions with timer, 3 lives, animations, score certificate, and leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
